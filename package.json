@@ -1,0 +1,22 @@
+{
+  "name": "apidev",
+  "version": "1.0.0",
+  "description": "api dev projects of free code camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shohan494/api-dev.git"
+  },
+  "author": "Shohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shohan494/api-dev/issues"
+  },
+  "homepage": "https://github.com/Shohan494/api-dev#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
